@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcoMcLaren
-- 👀 I’m interested in Web Development and AI
+- 👀 I’m interested in developing business systems, gaming, trading and AI systems
 - 🌱 I completed my BITHons Information Systems
 - Lets play some Call of Duty
 

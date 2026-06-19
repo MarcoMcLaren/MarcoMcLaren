@@ -5,7 +5,7 @@ Software Engineer focused on building scalable business systems, cloud solutions
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,py,react,angular,azure,redis,claude" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,py,react,azure,redis,claude" />
 </p>
 
 ## 🚀 What I'm Working On

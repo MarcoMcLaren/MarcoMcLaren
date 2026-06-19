@@ -28,7 +28,7 @@ Software Engineer focused on building scalable business systems, cloud solutions
 - Financial Markets & Trading
 - Gaming
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoMcLaren&layout=compact&theme=github_dark&exclude_repo=repo1,repo2)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcoMcLaren&theme=github_dark)
 
 ## 🎮 Fun Fact
 

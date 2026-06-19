@@ -2,6 +2,10 @@
 
 Software Engineer focused on building scalable business systems, cloud solutions, and AI-powered applications.
 
+
+> This GitHub profile showcases my personal projects, experiments, and continuous learning outside of my day-to-day professional work.
+> 
+
 ## 🛠️ Tech Stack
 
 <p align="left">

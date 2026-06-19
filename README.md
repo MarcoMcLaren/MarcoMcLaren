@@ -1,4 +1,4 @@
-# Hi, I'm Marco McLaren 👋
+# Hi, I'm Marco 👋
 
 Software Engineer focused on building scalable business systems, cloud solutions, and AI-powered applications.
 

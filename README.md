@@ -23,9 +23,9 @@ Software Engineer focused on building scalable business systems, cloud solutions
 ## 🎯 Interests
 
 - Software Architecture
-- System Design
 - Artificial Intelligence
 - Financial Markets & Trading
+- Business Systems
 - Gaming
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcoMcLaren&theme=github_dark)
